@@ -6,6 +6,12 @@ However, publishing requires plenty of management. Each creator is expected to m
 
 This tool is designed to automate some of these tasks.
 
+Commands for AI: 
+
+
+
+
+
 ## 1. Upload Page
 
 You can upload content, as well as edit descriptions, etc.
